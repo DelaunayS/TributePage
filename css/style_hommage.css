@@ -1,0 +1,40 @@
+body
+{
+    width:95vw;
+    background-color: khaki;
+    font-size:2vw;
+}
+
+h1{
+    text-align: center;
+    font-size: 5vw;
+}
+h2{
+    text-align: center;
+    font-size: 4vw;
+}
+
+#img-div, p
+{
+    text-align: center;     
+}
+
+#image{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width:30vw;
+    max-width:1599px;
+    height:auto;     
+}
+
+#problem{
+    color:rgb(36, 55, 224);
+    font-weight: bold;
+}
+
+#link_area{
+    color:rgb(169, 46, 241);
+    text-align: center;
+    font-weight: bold;
+}
